@@ -17,7 +17,7 @@ This is a command line application that prompts the user with a simple set of qu
 
 ## Installation
 
-The application can be downloaded fro the following GitHub repository: https://github.com/cr31293/ReadMe-Generator Once the user has cloned the repository the app is run by simply running "npm install" in the root directory of the app followed by "npm start" in the terminal.
+The application can be downloaded from the following GitHub repository: https://github.com/cr31293/ReadMe-Generator Once the user has cloned the repository the app is run by simply running "npm install" in the root directory of the app followed by "npm start" in the terminal.
 
 
 ## Usage
